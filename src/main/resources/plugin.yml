@@ -1,0 +1,7 @@
+name: MapPacker
+author: BuildStatic Development Team
+desc: Packs up maps to be put into the maps repo.
+main: net.buildstatic.mappacker.MapPacker
+version: ${version}
+commands:
+  pack:
