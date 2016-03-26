@@ -1,4 +1,4 @@
-# MapPacker
+# MapPacker [![Build Status](https://travis-ci.org/BuildStatic/MapPacker.svg?branch=master)](https://travis-ci.org/BuildStatic/MapPacker)
 Easily pack Minecraft maps for distribution to BuildStatic game servers.
 
 ## Requirements
