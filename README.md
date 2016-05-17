@@ -1,4 +1,4 @@
-# MapPacker [![Build Status](https://travis-ci.org/BuildStatic/MapPacker.svg?branch=master)](https://travis-ci.org/BuildStatic/MapPacker)
+# MapPacker [![Build Status](http://ci.buildstatic.net/buildStatus/icon?job=MapPacker)](http://ci.buildstatic.net/job/MapPacker)
 Easily pack Minecraft maps for distribution to BuildStatic game servers.
 
 ## Requirements
@@ -14,4 +14,4 @@ Java 8 and a Bukkit server with a map you would like to pack.
 7. Submit it to [BuildStatic](http://buildstatic.net)
 
 ## Building
-We use Maven 3. Build using `mvn install`.
+We use Maven 3. Build using `mvn clean install`.
